@@ -1,0 +1,62 @@
+.tabla{
+  display: table;
+  position: relative;
+  
+  height: 100%;
+  margin-left:12vw;
+  border: solid black;
+}
+.fila{
+
+float:left;
+}
+.c1,.c2,.c3,.c4,.c5{
+	 height: 150px;
+  	width: 150px;
+  	border-radius: 600px 600px 600px 600px;
+  	margin:auto;
+	background-color: green;
+
+}
+.c6,.c7,.c8,.c9,.c10{
+	height: 150px;
+  	width: 150px;
+  	border-radius: 600px 600px 600px 600px;
+  	margin:auto;
+	background-color: yellow;
+	
+}
+
+.c11,.c12,.c13,.c14,.c15{
+	height: 150px;
+  	width: 150px;
+  	border-radius: 600px 600px 600px 600px;
+  	margin:auto;
+	background-color: red;
+
+}
+.c16,.c17,.c18,.c19,.c20{
+	height: 150px;
+  	width: 150px;
+  	border-radius: 600px 600px 600px 600px;
+  	margin:auto;
+	background-color: blue;
+
+}
+.c1,.c2,.c3,.c4,.c5{
+float: left;
+display: table-row;
+position: relative;}
+.c6,.c7,.c8,.c9,.c10{
+float:left;
+display: table-row;
+
+}
+.c10,.c11,.c12,.c13,.c14{
+float:left;
+display: table-row;
+}
+.c15,.c16,.c17,.c18,.c19,.c20{
+float:left;
+display: table-row;
+}
